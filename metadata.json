@@ -1,0 +1,6 @@
+{
+  "name": "Chronos - Ambient Round Countdown Timer & Cloud Sync",
+  "description": "Android-inspired round countdown timer with customizable background images, font styles, overlay color and opacity, local notifications, portrait/landscape modes, cloud sync, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
